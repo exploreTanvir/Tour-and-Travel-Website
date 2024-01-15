@@ -13,6 +13,8 @@
   border-radius: 13px;
   position: fixed;
   margin-top: 1.5rem;
+  background: #fff;
+  z-index: 9999;
 }
 .navbarLogo {
   color: #222;
