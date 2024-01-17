@@ -1,5 +1,6 @@
 import heroImg from "../../../assets/12.jpg"
 import Destination from "../../destination/Destination"
+import Footer from "../../footer/Footer"
 import Hero from "../../hero/Hero"
 import Trip from "../../trip/Trip"
 import "./home.css"
@@ -18,6 +19,7 @@ const Home = () => {
   />
   <Destination/>
   <Trip/>
+  <Footer/>
     </>
   )
 }

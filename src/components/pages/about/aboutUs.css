@@ -1,0 +1,12 @@
+.aboutUs {
+  margin: 4rem 6rem;
+  text-align: start;
+}
+.aboutUs h1 {
+  padding-bottom: 1rem;
+  font-weight: 800;
+}
+.aboutUs p {
+  padding-bottom: 2rem;
+  color: rgb(39, 39, 39);
+}
